@@ -7,11 +7,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "CV"
-    url: /files/cv.pdf
-
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /files/cv.pdf
 
   # - title: "Guide"
   #   url: /markdown/
