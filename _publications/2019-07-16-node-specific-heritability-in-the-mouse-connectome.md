@@ -2,7 +2,7 @@
 title: "Node-Specific Heritability in the Mouse Connectome"
 collection: publications
 permalink: /publication/2019-07-16-node-specific-heritability-in-the-mouse-connectome
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper presents a novel statistical methodology for multi-network connectomics.'
 date: 2009-10-01
 venue: 'Submitted to Neuron'
 paperurl: 'https://doi.org/10.1101/701755'
