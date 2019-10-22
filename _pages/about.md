@@ -11,7 +11,7 @@ redirect_from:
 Overview
 =========
 - Combined BS/MSE student in the Department of Biomedical Engineering
-- Undergraduate researcher in the [Neurodata Lab](neurodata.io)
+- Undergraduate researcher in the [Neurodata Lab](https://neurodata.io/)
 
 
 Research Interests
