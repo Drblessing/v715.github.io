@@ -13,9 +13,9 @@ redirect_from:
 - Undergraduate researcher @[Neurodata](https://neurodata.io/)
 
 
-## Research Interests
-- Using machine learning to make sense of intractable neurological disorders 
-- Building data-driven critical care medicine tools using biomedical data science
+## Engineering & Research Interests
+- Designing and building data science solutions to improve the diagnosis and treatment of disease
+- Using machine learning to better understand previously intractable neurological disorders
 
 ## Fun Facts
 - From Boston, MA (and always able to crush a bowl of clam chowder)
