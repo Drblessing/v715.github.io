@@ -4,7 +4,7 @@ collection: teaching
 type: "PILOT"
 permalink: /teaching/pilot-linear-algebra
 venue: "Johns Hopkins University, Department of Mathematics"
-date: 2019-09-03
+date: 2020-09-03
 location: "Baltimore, MD"
 ---
 
