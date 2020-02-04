@@ -15,3 +15,8 @@ Useful resources
 
 - Grant Sanderson's (aka _3blue1brown_) incredible series on Linear Algebra ([link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab))
 - How to find the image and kernel of a linear transformation ([link](/files/linalg/ranknullity.pdf))
+
+
+Problem sets
+============
+- Week 1 ([pdf](/files/linalg/sets/week_1.pdf))
