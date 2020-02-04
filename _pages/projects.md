@@ -6,22 +6,17 @@ author_profile: true
 
 ---
 
-* ### A Multiview Learning Package in Python ([Github](https://github.com/NeuroDataDesign/multiview) and [Webpage](https://mvlearn.netlify.com/index.html))
+* ### Spoti-Graph: Social Network Analysis of Spotify Artists ([talk](/files/projects/graph_pop.pdf) and [Github](https://github.com/v715/Spoti-Graph))
 
-   An in progress NeuroData Design project in the NeuroData lab.
+   Spoti-Graph interfaces with the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) allowing you to construct and analyze networks of related artists on Spotify!
 
-* ### Solving the Shortest Common Superstring Problem via Deep Reinforcement Learning ([link](/files/dldo_scsp_6-18.pdf) and [Github](https://github.com/rflperry/dl-scsp))
+   *Final project for Modern Latin America (Spring 2019).*
 
-  Semester project for Deep Learning for Discrete Optimization (AMS 667 Spring 2019).
-  
-* ### Expert Defined versus Learned Dynamic Bayesian Networks for Inflation Prediction ([link](/files/rperry27_PGM_Final_Project.pdf) and [Github](https://github.com/rflperry/pgm_final))
 
-  Semester project for Machine Learning: Data to Models (CS 476 Spring 2019)
+* ### Solving the Barchistochrone Problem with a Genetic Algorithm ([link](/[files]/projects/brachistochrone.pdf) and [Github](https://github.com/v715/Genetic-Brachistochrone))
 
-* ### Linking the Caenorhabditis elegans nervous system neural connections and developmental history ([link](/files/C__elegans_lineages.pdf))
-   
-   NeuroData Design semester project in the NeuroData lab.
+    Use a genetic algorithm to find the least-time path between two points in 2-dimensional space assuming negligible friction and that all particles experience a uniform gravitational field.
 
-* ### Yelp Dataset Challenge 2018 ([link](https://rflperry.github.io/yelp_challenge2018/))
+* ### Virtual Pyano ([Github](https://github.com/v715/Virtual-Pyano))
 
-    Social Graphs and Interactions class final project.
+    Developed a program to map spatial hand coordinates (captured using a [Leap Motion Controller](https://www.ultraleap.com/product/leap-motion-controller/)) to a virtual piano.
