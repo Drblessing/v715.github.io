@@ -7,4 +7,4 @@ date: 2019-10-01
 venue: 'Submitted to Neuron'
 paperurl: 'https://doi.org/10.1101/701755'
 ---
-[This paper](https://doi.org/10.1101/) presents a novel statistical methodology for multi-network connectomics.
+[This paper](https://doi.org/10.1101/701755) presents a novel statistical methodology for multi-network connectomics.
