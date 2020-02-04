@@ -10,6 +10,6 @@ paperurl: 'https://doi.org/10.1101/701755'
 ---
 This paper presents a novel statistical methodology for multi-network connectomics.
 
-[Download paper here](/files/2019-07-16-node-specific-heritability-in-the-mouse-connectome.pdf)
+[Download paper here](/files/papers/2019-07-16-node-specific-heritability-in-the-mouse-connectome.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
