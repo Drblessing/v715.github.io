@@ -19,4 +19,4 @@ Useful resources
 
 Problem sets
 ============
-- Week 1 ([pdf](/files/linalg/sets/week_1.pdf))
+- Week 1 ([problems](/files/linalg/sets/week_1.pdf) and [solutions](/files/linalg/solutions/week_1.pdf))
