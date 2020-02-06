@@ -10,7 +10,7 @@ redirect_from:
 
 ## Overview
 - Combined BS/MSE student in the Department of Biomedical Engineering
-- Research focus area: Biomedical Data Science
+- Focus area: **Biomedical Data Science**
 - Undergraduate researcher @[Neurodata](https://neurodata.io/)
 
 
