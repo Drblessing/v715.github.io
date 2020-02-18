@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Vivek Gopalakrishnan"
+  name: "Daniel Blessing"
   avatar: "headshot.jpg"
-  bio: "Biomedical Engineering Student"
+  bio: "Applied Mathematics & Statistics and Chemical & Biomolecular Engineering Student"
   location: "Baltimore, MD"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: # "http://yourfullgooglescholarurl.com"
-  email: "vgopala4@jhu.edu"
+  email: "drblessing@gmail.com"
   researchgate: # "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,20 +94,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "v715"
+  github: "Drblessing"
   google_plus:
   keybase:
-  instagram:
+  instagram:'https://www.instagram.com/dblessyou/'
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "vgopala4/"
+  linkedin: "daniel-blessing-122806137/"
   orcid: # "http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: # "http://stackoverflow.com/users/9111293/goatboy3million"
   steam:
   tumblr:
-  twitter: # "replacethistwitterhandle"
+  twitter: # "dbless9"
   vine:
   weibo:
   xing:
