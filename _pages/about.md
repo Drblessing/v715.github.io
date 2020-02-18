@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 ## Overview
-- Combined BS/MSE student in the Department of Biomedical Engineering
-- Focus area: **Biomedical Data Science**
-- Undergraduate researcher @[Neurodata](https://neurodata.io/)
+- Double B.S. in Applied Mathematics and in Chemical Engineering 
+- Focus area: **Data Science**
+- Ford Data Analytics Alumni 
 
 
 ## Engineering & Research Interests
-- Designing and building data science solutions to improve the diagnosis and treatment of disease
-- Using machine learning to better understand previously intractable neurological disorders
+- Creative applications of artificial intelligence like audio generation
+- Using machine learning to better detect deepfake voices
 
 ## Fun Facts
 - From Boston, MA (and always able to crush a bowl of clam chowder)
-- Favorite album: _Black Messiah_ by D'Angelo 🔥
+- Favorite album: Take Care by Drake 🔥
