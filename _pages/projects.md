@@ -12,5 +12,5 @@ author_profile: true
 
 * ### Meddit: Social Network for patient populations to discuss lifestyle tips, mental health, and rate healthcare systems  ([Github](https://github.com/Drblessing/medditV0))
 
-   Meddit was created during MedHacks 2019 at Johns Hopkins University
+   'Meddit' was created during MedHacks 2019 at Johns Hopkins University
    Inspired by Wilmer Eye Institue Professor with macular degeneration
