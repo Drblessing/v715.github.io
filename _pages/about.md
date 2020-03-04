@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Overview
-- Double B.S. in Applied Mathematics and in Chemical Engineering 
+- Double B.S. in Applied Mathematics and in Chemical Engineering, GPA: 3.85/4.00
 - Focus area: **Data Science**
 - Ford Data Analytics Alumni 
 
