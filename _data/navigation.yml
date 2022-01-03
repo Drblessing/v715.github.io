@@ -1,18 +1,9 @@
-# main links links
 main:
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Resume"
-    url: /files/Resume.pdf
-
-  - title: "Guess My Number"
-    url: /guess-my-number/
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
