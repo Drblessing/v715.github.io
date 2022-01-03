@@ -11,5 +11,8 @@ main:
 
   - title: "Resume"
     url: /files/Resume.pdf
+
+  - title: "Guess My Number"
+    url: /guess-my-number/
   # - title: "Guide"
   #   url: /markdown/
