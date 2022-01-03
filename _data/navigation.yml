@@ -7,7 +7,7 @@ main:
     url: /teaching/
 
   - title: "Publications"
-   url: /publications/
+    url: /publications/
 
   - title: "Resume"
     url: /files/Resume.pdf
