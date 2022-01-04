@@ -82,6 +82,12 @@ h1 {
   left: 2rem;
 }
 
+.back {
+  position: absolute;
+  top: 12rem;
+  left: 2rem;
+}
+
 .guess {
   background: none;
   border: 4px solid #eee;
