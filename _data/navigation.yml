@@ -3,9 +3,9 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Dice"
+    url: /dice/
   - title: "About"
-    url: /about/
+    url: /
   - title: "Guess-My-Number"
     url: /guess/
