@@ -61,7 +61,7 @@ plugins:
 author:
   name: "Daniel Blessing"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Enjoyer of all things blockchain."
+  bio: "Enjoyer of all things blockchain"
   location: "San Francisco"
   links:
     - label: "Twitter"
