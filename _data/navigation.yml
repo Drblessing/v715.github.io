@@ -5,6 +5,7 @@ main:
   #   url: /categories/
   # - title: "Dice"
   #   url: /dice/
+  - title: "Blockchain Stuff"
   - title: "About"
     url: /
   # - title: "Guess-My-Number"
