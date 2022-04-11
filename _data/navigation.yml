@@ -5,8 +5,8 @@ main:
   #   url: /categories/
   # - title: "Dice"
   #   url: /dice/
-  - title: "Tools"
-    url: /tools/
+  - title: "Projects"
+    url: /projects/
   - title: "Learning"
     url: /learning/
   - title: "About"

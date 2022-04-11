@@ -1,7 +1,9 @@
 ---
 layout: singlenofooter
-title: "Tools"
-permalink: /tools/
+title: "Projects"
+permalink: /projects/
 author_profile: false
 classes: wide
 ---
+
+# Projects
