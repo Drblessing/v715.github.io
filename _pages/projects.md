@@ -6,4 +6,6 @@ author_profile: false
 classes: wide
 ---
 
-# Projects
+## [Dice Game](https://drblessing.github.io/dice/)
+
+## [Simple Banking App](https://drblessing.github.io/bankist/)
