@@ -19,6 +19,7 @@ classes: wide
 - Deployed exploitable faucet on the Goerli Testnet with Truffle
 - Deployed exploiting contract with malicious fallback function that drains the faucet using the reentrancy withrdawl bug
 
-## <p>Deploying mintable ERC20 Token - <a href="https://kovan.etherscan.io/address/0xcaf3bae1b73fb80722d00ddb1f3edd76c1bf9a17">Gold Token</a></p>
+## <p>Deploying mintable ERC20 Token - <a href="https://kovan.etherscan.io/address/0xaaa9c4d1d8094763e8aff422513a1940e52905ad">Gold Token</a></p>
 
-- Deployed a mintable ERC20 token on the Kovan Testnet with Truffle and Open Zeppelin contract standards
+- Deployed a mintable ERC20 token on the Kovan Testnet with Truffle using the Open Zeppelin contract standards
+- Verified contract bytecode on Etherscan
