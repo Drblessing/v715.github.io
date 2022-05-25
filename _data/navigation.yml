@@ -7,8 +7,6 @@ main:
   #   url: /dice/
   - title: "Projects"
     url: /projects/
-  - title: "Learning"
-    url: /learning/
   - title: "About"
     url: /
   # - title: "Guess-My-Number"
