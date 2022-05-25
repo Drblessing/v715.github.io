@@ -25,3 +25,13 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+# TODO joke testimonals
+
+# TODO password-protected url which links to another server
+
+# TODO inspirational quotes
+
+# TODO favorite rap wordplay
+
+# TODO famous people pictures and biographies, like a virtual gallery

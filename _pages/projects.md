@@ -6,11 +6,11 @@ author_profile: false
 classes: wide
 ---
 
-## [Dice Game](https://drblessing.github.io/dice/)
+## <a href="../dice">Dice Game</a>
 
 - Compete with a friend to reach 100 points, but watch out! Rolling a one will bankrupt you
 
-## [Simple Banking App](https://drblessing.github.io/bankist/)
+## <a href="../bankist">Simple Banking App</a>
 
 - Simple lightweight banking app that allows for user transfers and loans
 

@@ -7,7 +7,5 @@ main:
   #   url: /dice/
   - title: "Projects"
     url: /projects/
-  - title: "About"
-    url: /
   # - title: "Guess-My-Number"
   #   url: /guess/
