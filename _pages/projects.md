@@ -1,16 +1,25 @@
 ---
+layout: singlenofooter
 title: "Projects"
-layout: archive
 permalink: /projects/
-author_profile: true
-
+author_profile: false
+classes: wide
 ---
 
-* ### `League of Legends Predictions`: Machine learning powered predictive analysis in Python! ([Github](https://github.com/Drblessing/LoLPredictions))
+## [Dice Game](https://drblessing.github.io/dice/)
 
-    `League of Legends Predictions` is a Python script for predicting outcomes of professional League of Legends matches after 10 minutes of play [League of Legends](https://www.nytimes.com/interactive/2020/02/18/magazine/esports-business.html).
+- Compete with a friend to reach 100 points, but watch out! Rolling a one will bankrupt you
 
-* ### `Meddit`: Social Network for patient populations to discuss lifestyle tips, mental health, and rate healthcare systems  ([Github](https://github.com/Drblessing/medditV0))
+## [Simple Banking App](https://drblessing.github.io/bankist/)
 
-   `Meddit` was created during MedHacks 2019 at Johns Hopkins University
-   Inspired by Wilmer Eye Institue Professor with macular degeneration
+- Simple lightweight banking app that allows for user transfers and loans
+
+## Reentrancy Smart Contract Hack - <a href="https://goerli.etherscan.io/tx/0xa5de2ec424f89dc06c2dcb5b2dace63fe6b0dca260268945bc5e19466d2260d5">Transaction</a>
+
+- Deployed exploitable faucet on the Goerli Testnet with Truffle
+- Deployed exploiting contract with malicious fallback function that drains the faucet using the reentrancy withrdawl bug
+
+## Deploying mintable ERC20 Token - <a href="https://kovan.etherscan.io/address/0xaaa9c4d1d8094763e8aff422513a1940e52905ad">Gold Token</a>
+
+- Deployed a mintable ERC20 token on the Kovan Testnet with Truffle using the Open Zeppelin contract standards
+- Verified contract bytecode on Etherscan
