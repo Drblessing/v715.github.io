@@ -12,7 +12,7 @@ classes: wide
 
 ## <a href="../dice">Dice Game</a>
 
-- Compete with a friend to reach 100 points, but watch out! Rolling a one will bankrupt you
+- Compete with a friend to reach 100 points, but watch out! Rolling a one will bankrupt you.
 
 ## <a href="../bankist">Simple Banking App</a>
 
