@@ -1,10 +1,14 @@
 ---
 layout: singlenofooter
-title: "Projects"
+title: 'Projects'
 permalink: /projects/
 author_profile: false
 classes: wide
 ---
+
+## <a href="https://raps.ninja"></a>
+
+- Fullstack application built with typescript, NextJS, and Supabase. Share your favorite raps with the community!
 
 ## <a href="../dice">Dice Game</a>
 
