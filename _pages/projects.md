@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-## <a href="https://raps.ninja"></a>
+## <a href="https://raps.ninja">Raps Ninja</a>
 
 - Fullstack application built with typescript, NextJS, and Supabase. Share your favorite raps with the community!
 
